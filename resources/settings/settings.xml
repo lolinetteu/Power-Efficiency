@@ -1,0 +1,7 @@
+<settings>
+
+    <setting propertyKey="@Properties.RestHR" title="@Strings.RestHR">
+        <settingConfig type="numeric" />
+    </setting>
+
+</settings>

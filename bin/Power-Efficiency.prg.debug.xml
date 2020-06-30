@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="8" lineNum="30" pc="268435531" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="8" lineNum="31" pc="268435535" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="8" lineNum="33" pc="268435553" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="8" lineNum="35" pc="268435569" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="8" lineNum="36" pc="268435589" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="8" lineNum="39" pc="268435608" symbol="initialize"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="46" pc="268435648" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="48" pc="268435652" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="50" pc="268435674" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="52" pc="268435694" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="54" pc="268435710" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="55" pc="268435726" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="58" pc="268435742" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="59" pc="268435780" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="60" pc="268435818" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="63" pc="268435841" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="64" pc="268435870" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="66" pc="268435890" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="67" pc="268435918" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="69" pc="268435946" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="70" pc="268435973" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="73" pc="268436000" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="76" pc="268436040" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="77" pc="268436078" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="78" pc="268436116" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="81" pc="268436142" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="82" pc="268436167" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="84" pc="268436186" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="85" pc="268436206" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="87" pc="268436237" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="88" pc="268436262" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="93" pc="268436284" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="98" pc="268436300" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="99" pc="268436332" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="100" pc="268436355" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="9" lineNum="102" pc="268436378" symbol="compute"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="10" lineNum="105" pc="268436388" symbol="addAndRollPower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="10" lineNum="107" pc="268436392" symbol="addAndRollPower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="10" lineNum="108" pc="268436419" symbol="addAndRollPower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="10" lineNum="111" pc="268436448" symbol="addAndRollPower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="10" lineNum="113" pc="268436467" symbol="addAndRollPower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="11" lineNum="117" pc="268436471" symbol="addAndRollHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="11" lineNum="119" pc="268436475" symbol="addAndRollHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="11" lineNum="120" pc="268436502" symbol="addAndRollHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="11" lineNum="123" pc="268436531" symbol="addAndRollHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="11" lineNum="125" pc="268436550" symbol="addAndRollHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="12" lineNum="128" pc="268436554" symbol="getLastSecondsAveragePower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="12" lineNum="130" pc="268436558" symbol="getLastSecondsAveragePower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="12" lineNum="132" pc="268436565" symbol="getLastSecondsAveragePower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="12" lineNum="133" pc="268436592" symbol="getLastSecondsAveragePower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="12" lineNum="136" pc="268436615" symbol="getLastSecondsAveragePower"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="13" lineNum="139" pc="268436628" symbol="getLastSecondsAverageHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="13" lineNum="141" pc="268436632" symbol="getLastSecondsAverageHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="13" lineNum="143" pc="268436639" symbol="getLastSecondsAverageHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="13" lineNum="144" pc="268436666" symbol="getLastSecondsAverageHR"/>
+<entry filename="/Users/bastien/Documents/Workspace/Power-Efficiency/source/PowerEfficiencyView.mc" id="13" lineNum="147" pc="268436689" symbol="getLastSecondsAverageHR"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="33" method="true" symbol="getLastSecondsAverageHR"/>
+<entry field="true" id="23" symbol="currentHRArrayFilling"/>
+<entry field="true" id="8388733" symbol="timerTime"/>
+<entry id="30" method="true" symbol="addAndRollPower"/>
+<entry field="true" id="17" symbol="powerLabel"/>
+<entry field="true" id="19" symbol="lastSecondsPowerArray"/>
+<entry id="31" method="true" symbol="addAndRollHR"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="15" symbol="RestHR"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="27" symbol="currentHR"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="14" symbol="Label"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="21" symbol="lastSecondsHRCapacity"/>
+<entry field="true" id="22" symbol="lastSecondsHRArray"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="25" symbol="lastSecondsAvgPower"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="18" symbol="lastSecondsPowerCapacity"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="29" symbol="efficiency"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="26" symbol="lastSecondsAvgHR"/>
+<entry id="10" object="true" symbol="PowerEfficiencyView"/>
+<entry field="true" id="28" symbol="restHR"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="32" method="true" symbol="getLastSecondsAveragePower"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="20" symbol="currentPowerArrayFilling"/>
+<entry field="true" id="8388742" symbol="currentPower"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="9" object="true" symbol="PowerEfficiencyApp"/>
+<entry field="true" id="24" symbol="previousTimerTime"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268436388" name="info" stackId="1" startPc="268435648"/>
+<entry endPc="268436448" name="i" stackId="3" startPc="268436419"/>
+<entry endPc="268436471" name="newValue" stackId="2" startPc="268436388"/>
+<entry endPc="268436471" name="array" stackId="1" startPc="268436388"/>
+<entry endPc="268436531" name="i" stackId="3" startPc="268436502"/>
+<entry endPc="268436554" name="newValue" stackId="2" startPc="268436471"/>
+<entry endPc="268436554" name="array" stackId="1" startPc="268436471"/>
+<entry endPc="268436615" name="i" stackId="3" startPc="268436592"/>
+<entry endPc="268436627" name="powerSum" stackId="2" startPc="268436558"/>
+<entry endPc="268436628" name="array" stackId="1" startPc="268436554"/>
+<entry endPc="268436689" name="i" stackId="3" startPc="268436666"/>
+<entry endPc="268436701" name="hrSum" stackId="2" startPc="268436632"/>
+<entry endPc="268436702" name="array" stackId="1" startPc="268436628"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="150" parentId="globals" symbolId="PowerEfficiencyApp" type="class"/>
+<dataEntry offset="221" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="300" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="339" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="370" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="401" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="432" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="463" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="518" parentId="globals" symbolId="PowerEfficiencyView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PowerEfficiencyApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="PowerEfficiencyApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="PowerEfficiencyApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PowerEfficiencyApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PowerEfficiencyView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="PowerEfficiencyView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="addAndRollPower" parent="PowerEfficiencyView">
+<param id="array"/>
+<param id="newValue"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="addAndRollHR" parent="PowerEfficiencyView">
+<param id="array"/>
+<param id="newValue"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getLastSecondsAveragePower" parent="PowerEfficiencyView">
+<param id="array"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getLastSecondsAverageHR" parent="PowerEfficiencyView">
+<param id="array"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
